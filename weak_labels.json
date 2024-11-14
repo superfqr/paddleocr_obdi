@@ -1,0 +1,590 @@
+{
+    "crop_1": [
+        {
+            "score": 0.9968411326408386,
+            "transcription": "沈阳民间借贷登记服务中心"
+        }
+    ],
+    "crop_4": [
+        {
+            "score": 0.9914835095405579,
+            "transcription": "四季贸易商"
+        }
+    ],
+    "crop_9": [
+        {
+            "score": 0.9945746660232544,
+            "transcription": "开心鱼意婴幼儿生活馆"
+        }
+    ],
+    "crop_13": [
+        {
+            "score": 0.9041679501533508,
+            "transcription": "逸夫人"
+        }
+    ],
+    "crop_16": [
+        {
+            "score": 0.9984498620033264,
+            "transcription": "换油"
+        }
+    ],
+    "crop_17": [
+        {
+            "score": 0.9998989105224609,
+            "transcription": "美孚"
+        }
+    ],
+    "crop_31": [
+        {
+            "score": 0.9945225119590759,
+            "transcription": "满200减50"
+        }
+    ],
+    "crop_33": [
+        {
+            "score": 0.6436178684234619,
+            "transcription": "明奇"
+        }
+    ],
+    "crop_37": [
+        {
+            "score": 0.9962582588195801,
+            "transcription": "秋实便利店"
+        }
+    ],
+    "crop_42": [
+        {
+            "score": 0.9817543029785156,
+            "transcription": "爱玛电动车"
+        }
+    ],
+    "crop_46": [
+        {
+            "score": 0.9555944204330444,
+            "transcription": "日映麦田"
+        }
+    ],
+    "crop_47": [
+        {
+            "score": 0.9946495890617371,
+            "transcription": "RYEMATE"
+        }
+    ],
+    "crop_50": [
+        {
+            "score": 0.9298371076583862,
+            "transcription": "和尚"
+        }
+    ],
+    "crop_51": [
+        {
+            "score": 0.6340019702911377,
+            "transcription": "更康雅"
+        }
+    ],
+    "crop_55": [
+        {
+            "score": 0.999657154083252,
+            "transcription": "杭"
+        }
+    ],
+    "crop_58": [
+        {
+            "score": 0.982058584690094,
+            "transcription": "光"
+        }
+    ],
+    "crop_60": [
+        {
+            "score": 0.9953195452690125,
+            "transcription": "靓衣"
+        }
+    ],
+    "crop_63": [
+        {
+            "score": 0.9836666584014893,
+            "transcription": "班暑假班"
+        }
+    ],
+    "crop_67": [
+        {
+            "score": 0.9967918395996094,
+            "transcription": "手工面食晋阳号"
+        }
+    ],
+    "crop_73": [
+        {
+            "score": 0.9963550567626953,
+            "transcription": "老扬州洗脚店"
+        }
+    ],
+    "crop_78": [
+        {
+            "score": 0.978300154209137,
+            "transcription": "汉堡鸡柳薯条"
+        }
+    ],
+    "crop_79": [
+        {
+            "score": 0.9195863008499146,
+            "transcription": "中"
+        }
+    ],
+    "crop_80": [
+        {
+            "score": 0.9911751747131348,
+            "transcription": "寿司饭团"
+        }
+    ],
+    "crop_83": [
+        {
+            "score": 0.9192730188369751,
+            "transcription": "复印 照相"
+        }
+    ],
+    "crop_96": [
+        {
+            "score": 0.9959055781364441,
+            "transcription": "China"
+        }
+    ],
+    "crop_98": [
+        {
+            "score": 0.998860239982605,
+            "transcription": "中国移动"
+        }
+    ],
+    "crop_99": [
+        {
+            "score": 0.9902198314666748,
+            "transcription": "4G"
+        }
+    ],
+    "crop_100": [
+        {
+            "score": 0.996904194355011,
+            "transcription": "黄村司法所"
+        }
+    ],
+    "crop_102": [
+        {
+            "score": 0.9900256991386414,
+            "transcription": "黄村街综治"
+        }
+    ],
+    "crop_104": [
+        {
+            "score": 0.9360488057136536,
+            "transcription": "Fashion"
+        }
+    ],
+    "crop_105": [
+        {
+            "score": 0.9023116230964661,
+            "transcription": "太妃堂美甲"
+        }
+    ],
+    "crop_114": [
+        {
+            "score": 0.9978281855583191,
+            "transcription": "欢迎光临"
+        }
+    ],
+    "crop_118": [
+        {
+            "score": 0.9985284209251404,
+            "transcription": "武汉丹旭通达物流有限公司"
+        }
+    ],
+    "crop_123": [
+        {
+            "score": 0.9211317300796509,
+            "transcription": "前进"
+        }
+    ],
+    "crop_124": [
+        {
+            "score": 0.8444682359695435,
+            "transcription": "李府香饮"
+        }
+    ],
+    "crop_125": [
+        {
+            "score": 0.9998747110366821,
+            "transcription": "欧派"
+        }
+    ],
+    "crop_129": [
+        {
+            "score": 0.9900652766227722,
+            "transcription": "宗申车"
+        }
+    ],
+    "crop_133": [
+        {
+            "score": 0.964509129524231,
+            "transcription": "话"
+        }
+    ],
+    "crop_142": [
+        {
+            "score": 0.9926090240478516,
+            "transcription": "昭亭社"
+        }
+    ],
+    "crop_143": [
+        {
+            "score": 0.8322650194168091,
+            "transcription": "微敬亭山律师事务所"
+        }
+    ],
+    "crop_144": [
+        {
+            "score": 0.9976269602775574,
+            "transcription": "少儿艺术教育中"
+        }
+    ],
+    "crop_146": [
+        {
+            "score": 0.9736706614494324,
+            "transcription": "50元，益丰大药房"
+        }
+    ],
+    "crop_147": [
+        {
+            "score": 0.9805951118469238,
+            "transcription": "Pharmac"
+        }
+    ],
+    "crop_149": [
+        {
+            "score": 0.9967038631439209,
+            "transcription": "味来雅"
+        }
+    ],
+    "crop_160": [
+        {
+            "score": 0.8758673071861267,
+            "transcription": "8403788"
+        }
+    ],
+    "crop_168": [
+        {
+            "score": 0.949358344078064,
+            "transcription": "3F"
+        }
+    ],
+    "crop_174": [
+        {
+            "score": 0.9955501556396484,
+            "transcription": "泰兴市瑞和纸业有限"
+        }
+    ],
+    "crop_177": [
+        {
+            "score": 0.9304829239845276,
+            "transcription": "佤家餐饮连锁"
+        }
+    ],
+    "crop_187": [
+        {
+            "score": 0.9588016271591187,
+            "transcription": "三萬"
+        }
+    ],
+    "crop_189": [
+        {
+            "score": 0.9959774017333984,
+            "transcription": "金盛泉商务酒店"
+        }
+    ],
+    "crop_191": [
+        {
+            "score": 0.9976465702056885,
+            "transcription": "订房热线020-34339"
+        }
+    ],
+    "crop_211": [
+        {
+            "score": 0.9658167362213135,
+            "transcription": "有机玻"
+        }
+    ],
+    "crop_212": [
+        {
+            "score": 0.9967060089111328,
+            "transcription": "塑料板"
+        }
+    ],
+    "crop_214": [
+        {
+            "score": 0.999936580657959,
+            "transcription": "料"
+        }
+    ],
+    "crop_220": [
+        {
+            "score": 0.9605816602706909,
+            "transcription": "根·毛毡·尼龙棒"
+        }
+    ],
+    "crop_228": [
+        {
+            "score": 0.9870827794075012,
+            "transcription": "室内装修"
+        }
+    ],
+    "crop_232": [
+        {
+            "score": 0.7559374570846558,
+            "transcription": "袁春"
+        }
+    ],
+    "crop_236": [
+        {
+            "score": 0.9852393865585327,
+            "transcription": "love"
+        }
+    ],
+    "crop_240": [
+        {
+            "score": 0.9987540245056152,
+            "transcription": "码盛富"
+        }
+    ],
+    "crop_248": [
+        {
+            "score": 0.9758584499359131,
+            "transcription": "美甲美睫"
+        }
+    ],
+    "crop_257": [
+        {
+            "score": 0.99891197681427,
+            "transcription": "24小时"
+        }
+    ],
+    "crop_266": [
+        {
+            "score": 0.9945711493492126,
+            "transcription": "方太、神州厨电，德国威能地暖"
+        }
+    ],
+    "crop_278": [
+        {
+            "score": 0.9977324604988098,
+            "transcription": "234179"
+        }
+    ],
+    "crop_281": [
+        {
+            "score": 0.9970146417617798,
+            "transcription": "断桥"
+        }
+    ],
+    "crop_285": [
+        {
+            "score": 0.9781728982925415,
+            "transcription": "大可以饭店"
+        }
+    ],
+    "crop_292": [
+        {
+            "score": 0.9985173940658569,
+            "transcription": "招商办公室"
+        }
+    ],
+    "crop_294": [
+        {
+            "score": 0.9978945851325989,
+            "transcription": "5137586"
+        }
+    ],
+    "crop_295": [
+        {
+            "score": 0.9936864376068115,
+            "transcription": "让您悦莱悦美"
+        }
+    ],
+    "crop_296": [
+        {
+            "score": 0.9995034337043762,
+            "transcription": "科技美容连锁"
+        }
+    ],
+    "crop_298": [
+        {
+            "score": 0.9988309741020203,
+            "transcription": "屋"
+        }
+    ],
+    "crop_301": [
+        {
+            "score": 0.921202540397644,
+            "transcription": "本店长期诚聘：关容技"
+        }
+    ],
+    "crop_302": [
+        {
+            "score": 0.9990327954292297,
+            "transcription": "美国龙膜商丘市"
+        }
+    ],
+    "crop_310": [
+        {
+            "score": 0.9994211792945862,
+            "transcription": "新尚美发"
+        }
+    ],
+    "crop_316": [
+        {
+            "score": 0.9747126698493958,
+            "transcription": "3913767243"
+        }
+    ],
+    "crop_322": [
+        {
+            "score": 0.9945971965789795,
+            "transcription": "新亚企航"
+        }
+    ],
+    "crop_323": [
+        {
+            "score": 0.9998055100440979,
+            "transcription": "牛肉面"
+        }
+    ],
+    "crop_324": [
+        {
+            "score": 0.9916320443153381,
+            "transcription": "美"
+        }
+    ],
+    "crop_327": [
+        {
+            "score": 0.9788079261779785,
+            "transcription": "装订"
+        }
+    ],
+    "crop_329": [
+        {
+            "score": 0.998749852180481,
+            "transcription": "商"
+        }
+    ],
+    "crop_330": [
+        {
+            "score": 0.995712399482727,
+            "transcription": "中圣明金融"
+        }
+    ],
+    "crop_334": [
+        {
+            "score": 0.9869263768196106,
+            "transcription": "美容服务中心027-846652"
+        }
+    ],
+    "crop_335": [
+        {
+            "score": 0.9979202747344971,
+            "transcription": "食味"
+        }
+    ],
+    "crop_341": [
+        {
+            "score": 0.9960772395133972,
+            "transcription": "武汉市新华书店教材发行中"
+        }
+    ],
+    "crop_346": [
+        {
+            "score": 0.6968235373497009,
+            "transcription": "oun"
+        }
+    ],
+    "crop_347": [
+        {
+            "score": 0.9987647533416748,
+            "transcription": "戈尔"
+        }
+    ],
+    "crop_349": [
+        {
+            "score": 0.9008854031562805,
+            "transcription": "南全国各地中转"
+        }
+    ],
+    "crop_350": [
+        {
+            "score": 0.9977725148200989,
+            "transcription": "6666329"
+        }
+    ],
+    "crop_351": [
+        {
+            "score": 0.9879041910171509,
+            "transcription": "齐心物流"
+        }
+    ],
+    "crop_358": [
+        {
+            "score": 0.998872697353363,
+            "transcription": "属不锈钢"
+        }
+    ],
+    "crop_360": [
+        {
+            "score": 0.6223154664039612,
+            "transcription": "建门"
+        }
+    ],
+    "crop_372": [
+        {
+            "score": 0.9995826482772827,
+            "transcription": "经营"
+        }
+    ],
+    "crop_380": [
+        {
+            "score": 0.9685435891151428,
+            "transcription": "订餐热线"
+        }
+    ],
+    "crop_384": [
+        {
+            "score": 0.9915806651115417,
+            "transcription": "经营许可证号：L-SNX-CJ00034"
+        }
+    ],
+    "crop_388": [
+        {
+            "score": 0.9953967332839966,
+            "transcription": "YOUCANG"
+        }
+    ],
+    "crop_390": [
+        {
+            "score": 0.9985774755477905,
+            "transcription": "阳光花园"
+        }
+    ],
+    "crop_393": [
+        {
+            "score": 0.9968026280403137,
+            "transcription": "1833615387"
+        }
+    ],
+    "crop_395": [
+        {
+            "score": 0.948002815246582,
+            "transcription": "金诚广告"
+        }
+    ],
+    "crop_399": [
+        {
+            "score": 0.9924601316452026,
+            "transcription": "州新特珑电子有"
+        }
+    ]
+}
